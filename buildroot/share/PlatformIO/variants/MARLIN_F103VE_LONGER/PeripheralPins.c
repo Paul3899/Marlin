@@ -12,7 +12,7 @@
  * Automatically generated from STM32F103V(F-G)Tx.xml
  */
 #include "Arduino.h"
-#include "PeripheralPins.h"
+#includePath "PeripheralPins.h"
 
 /* =====
  * Note: Commented lines are alternative possibilities which are not used per default.
